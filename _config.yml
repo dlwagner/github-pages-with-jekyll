@@ -1,15 +1,14 @@
-title: Your awesome title
-author: GitHub User
+title: EM Drives in Space
+author: Don Wagner
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Em Drives are really cool. This blog exlpores the EM drive concept and 
+  demonstrates how they work in space. Cool!
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: dlwagner
+github_username:  dlwagner
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-merlot
+theme: minima
